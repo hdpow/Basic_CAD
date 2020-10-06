@@ -1,6 +1,6 @@
 # engeneering-notebook
 
-<img src="/images/coolimage.png" height="500">
+
 # BasicCAD
 
 We are creating a caster.
@@ -26,7 +26,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-<img src="/images/base.png" height="500">
+<img src="/images/Base.png" height="500">
 
 ### Reflection
 
@@ -45,25 +45,30 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+The mount is similar to the base, but 2/3 in size. it:Is a 120mm x120mm rectangle, centered on the origin.
+Has 4 symmetric holes in the corners, 10mm in diameter, 20mm from each side (and therefore, 80mm from each other)
+Has another 25 mm circle in the center of the square.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/ba31163f20e54fffaf477e42/w/e68b96d99e5a876963efd066/e/fdbc28ca7e63ceb41b37af7c
 ### Image
-
+<img src="/images/Mount.png" height="500">
 ### Reflection
 
+pretty easy, basically the same as the base
 ---
 
 
 ## Fork
 
 ### Description
-
+The fork looks like a wall socket with a tube on the back.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/f88eedead2027ef1735d1c33/w/d6821f683d624005eb2fbd0d/e/469896b4747ef765167754a2
 ### Image
+<img src="/images/Fork.png" height="500">
 
 ### Reflection
+pretty easy, didnt struggle at all. learnt how do cut a whole through multiple features.
 
 ---
 
@@ -71,12 +76,13 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Tire
 
 ### Description
-
+Sketch and revolve with fillets.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/de50dd87d7808c126ab61214/w/6ed082505ed5c28c65c3df46/e/28c9cdf693de3b382defba4c
 ### Image
-
+<img src="/images/Tire.png" height="500">
 ### Reflection
+Easy stuff, done it before with no problem. no trouble here.
 
 ---
 
@@ -84,13 +90,14 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Wheel
 
 ### Description
-
+circle with a wider rim. circular patterned segments of angles. fillets everywhere.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/de50dd87d7808c126ab61214/w/6ed082505ed5c28c65c3df46/e/28c9cdf693de3b382defba4c
 ### Image
+<img src="/images/Wheel.png" height="500">
 
 ### Reflection
-
+this one was a bit more tricky. canvas had the wrong planes, but i could have figured it out myself :/ sorry for wasting your time :^) otherwise easy peasy
 ---
 
 
