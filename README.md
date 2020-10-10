@@ -102,13 +102,17 @@ this one was a bit more tricky. canvas had the wrong planes, but i could have fi
 
 
 ## AxleCollarBearings
-
+Actually three assignments: the axle and collar, which is for connecting the wheels, and two bearings, which let the axel spin.
 ### Description
-
+  the method of getting the wheel to spin
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/ffa447897569570d42fcbb04/w/2dc482e5cd987549425fdc61/e/02b6098aa539065b1aae69a1
+https://cvilleschools.onshape.com/documents/de50dd87d7808c126ab61214/w/6ed082505ed5c28c65c3df46/e/28c9cdf693de3b382defba4c
+https://cvilleschools.onshape.com/documents/88eea8d9cb0556ef915b6b7c/w/68333c54ba67c753dc9d059d/e/e221213165d7043173abe790
 ### Image
-
+<img src="/images/Bearing1.png" height="500">
+<img src="/images/Bearing2.png" height="500">
+<img src="/images/Axel_Collar.png" height="500">
 ### Reflection
-
+symetric remove works better than through all.
 ---
