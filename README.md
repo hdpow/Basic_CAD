@@ -116,3 +116,5 @@ https://cvilleschools.onshape.com/documents/88eea8d9cb0556ef915b6b7c/w/68333c54b
 ### Reflection
 symetric remove works better than through all.
 ---
+## assemblies
+I'm having a lot of trouble with this rn honestly. might need to go to some office hours so I actually make progress
