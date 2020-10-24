@@ -118,3 +118,12 @@ symetric remove works better than through all.
 ---
 ## assemblies
 I'm having a lot of trouble with this rn honestly. might need to go to some office hours so I actually make progress
+
+# circutpython
+oh my jesus. why doesnt this work. im copying code off of the actual official webiste and it isnt working. i am in pain.
+### description
+a bundle of pain. looks like a arduino but is actually a small demon incased in silicone. i havent been paying attention in class so i dont know if this is fixed. god i hope you read these
+### evedence
+no evedence bc i havent finished anything aaaaaaaa
+### images
+see above.
