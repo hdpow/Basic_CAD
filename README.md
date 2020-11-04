@@ -115,6 +115,17 @@ https://cvilleschools.onshape.com/documents/88eea8d9cb0556ef915b6b7c/w/68333c54b
 <img src="/images/Axel_Collar.png" height="500">
 ### Reflection
 symetric remove works better than through all.
+
 ---
-## assemblies
-I'm having a lot of trouble with this rn honestly. might need to go to some office hours so I actually make progress
+
+## SubAssimbly
+first assembly of the intire project.
+### Description
+The wheel, bearings, and axel assembled.
+### Evidence
+https://cvilleschools.onshape.com/documents/602ddd5db38a9248ffd06308/w/5cb9c2f3eb367722ec544c12/e/c8e165f7305138c14cd42ee1
+### Image
+<img src="/images/SubAssembly.png" height="500">
+
+### Reflection
+mates are really super easy on onshape. very cool.
