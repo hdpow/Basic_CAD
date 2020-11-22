@@ -61,7 +61,7 @@ pretty easy, basically the same as the base
 ## Fork
 
 ### Description
-The fork looks like a wall socket with a tube on the back.
+The fork looks like a hollow tube with a disc attached to it. on that disc are two rectangles, filleted on their sides and edges, with a hole running through both of them. It looks very similar to the end of an electrical cord that you would plug into a wall socket.
 ### Evidence
 https://cvilleschools.onshape.com/documents/f88eedead2027ef1735d1c33/w/d6821f683d624005eb2fbd0d/e/469896b4747ef765167754a2
 ### Image
@@ -76,7 +76,7 @@ pretty easy, didnt struggle at all. learnt how do cut a whole through multiple f
 ## Tire
 
 ### Description
-Sketch and revolve with fillets.
+The tire is effectivly a disc with a hole through it, filleted on the outside edges. very similar to a bike tire in the ratio of the dimensions.
 ### Evidence
 https://cvilleschools.onshape.com/documents/de50dd87d7808c126ab61214/w/6ed082505ed5c28c65c3df46/e/28c9cdf693de3b382defba4c
 ### Image
@@ -90,7 +90,7 @@ Easy stuff, done it before with no problem. no trouble here.
 ## Wheel
 
 ### Description
-circle with a wider rim. circular patterned segments of angles. fillets everywhere.
+The wheel is a revolve of an I-shaped sketch, followed by an angle being created and the end of that angle being sectioned off and cut out. then, make a circular pattern with the cut out and filet the interior of the hole.
 ### Evidence
 https://cvilleschools.onshape.com/documents/de50dd87d7808c126ab61214/w/6ed082505ed5c28c65c3df46/e/28c9cdf693de3b382defba4c
 ### Image
@@ -102,9 +102,10 @@ this one was a bit more tricky. canvas had the wrong planes, but i could have fi
 
 
 ## AxleCollarBearings
-Actually three assignments: the axle and collar, which is for connecting the wheels, and two bearings, which let the axel spin.
+
 ### Description
-  the method of getting the wheel to spin
+Actually three assignments: the axle and collar, which is a tube with a notch at one end and a larger tube at the opposite end, and two bearings, which let the axel spin, and are just discs with holes in them.
+
 ### Evidence
 https://cvilleschools.onshape.com/documents/ffa447897569570d42fcbb04/w/2dc482e5cd987549425fdc61/e/02b6098aa539065b1aae69a1
 https://cvilleschools.onshape.com/documents/de50dd87d7808c126ab61214/w/6ed082505ed5c28c65c3df46/e/28c9cdf693de3b382defba4c
@@ -119,9 +120,9 @@ symetric remove works better than through all.
 ---
 
 ## SubAssimbly
-first assembly of the intire project.
+
 ### Description
-The wheel, bearings, and axel assembled.
+The assembly. all of the parts in their in their place.
 ### Evidence
 https://cvilleschools.onshape.com/documents/602ddd5db38a9248ffd06308/w/5cb9c2f3eb367722ec544c12/e/c8e165f7305138c14cd42ee1
 ### Image
