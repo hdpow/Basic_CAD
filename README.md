@@ -130,3 +130,21 @@ https://cvilleschools.onshape.com/documents/602ddd5db38a9248ffd06308/w/5cb9c2f3e
 
 ### Reflection
 mates are really super easy on onshape. very cool.
+
+## Final Caster Assembly
+
+### Discription
+
+Congrats!  You're done with your first Onshape design! Now it's time to assemble all of your parts together!
+
+## Evidence
+
+https://cvilleschools.onshape.com/documents/7458520617a82864a93f347d/w/b8bb3e8a0b4b5a677244f7c2/e/09ff44dc9e0d6ed273e75b57
+
+### Image
+
+<img src="/images/FinalAssembly.png" height="500">
+
+### Reflection
+
+This was a culmination of all of the work i put into this project. with Dr.Shields guiding me, It was pretty easy to complete it. I had a lot of fun learning about onshape, and I cant wait to use it in real projects.
